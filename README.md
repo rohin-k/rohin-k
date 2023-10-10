@@ -7,7 +7,7 @@ I am a master's student of simulation sciences at Bergische Universität Wuppert
  - 💗 Interests: scientific methods 🧠, dark humour 😈, music 🎸, art 🎨
 
 🤹🏾 Skills:
-    Critical thinking and problem solving | Agile methods | Stakeholder management | Teamwork and collaboration
+    Critical thinking and problem solving, Agile methods, Stakeholder management, Teamwork and collaboration
 
 🔨 Tools:
     Python, C++, MATLAB, Fortran, Tensorflow, NXOpen, Power BI
