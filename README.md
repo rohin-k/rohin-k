@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an MSc Student of Simulation Science with a specialisation in imaging.
+I am an studying simulation science
 
 🔨 Tools:
          Python, C++, MATLAB, Fortran, Tensorflow, NXOpen, Power BI, Siemens NX/Teamcenter, DS Catia/Smarteam
